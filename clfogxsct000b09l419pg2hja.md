@@ -1,7 +1,7 @@
 ---
 title: "Let's DevOps"
 datePublished: Sat Mar 25 2023 21:13:39 GMT+0000 (Coordinated Universal Time)
-cuid: clfogxsct000b09l419pg2hja
+cuid: lets-devops
 slug: lets-devops
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679402184160/aeeb1b54-8789-4f33-bcca-957e48e9f6ce.png
 tags: devops, devops-articles, devops-trends, trainwithshubham
