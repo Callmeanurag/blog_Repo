@@ -15,17 +15,17 @@ This project showcases how to harness the power of Terraform to create and manag
 
 ### Starting Essentials
 
-1. **"Terraform Ready?"**: Get Terraform set up on your system to start building!
+1. **Terraform Ready?**: Get Terraform set up on your system to start building!
     
-2. **"Docker on Deck?"**: Ensure Docker is installed and running smoothly.
+2. **Docker on Deck?**: Ensure Docker is installed and running smoothly.
     
-3. **"Spotify Account in Hand?"**: Have a Spotify account ready (premium not required)!
+3. **Spotify Account in Hand?**: Have a Spotify account ready (premium not required)!
     
-4. **"Spotify Dev Setup"**: Sign up for a Spotify Developer account and snag your Client ID and Secret.
+4. **Spotify Dev Setup**: Sign up for a Spotify Developer account and snag your Client ID and Secret.
     
-5. **"Spotify Terraform Plugin"**: Install and configure the Spotify provider to connect with Terraform.
+5. **Spotify Terraform Plugin**: Install and configure the Spotify provider to connect with Terraform.
     
-6. **"VS Code Vibes"**: Use VS Code for an effortless editing experience with Terraform files.
+6. **VS Code Vibes**: Use VS Code for an effortless editing experience with Terraform files.
     
 
 ### How to Rock This Project
