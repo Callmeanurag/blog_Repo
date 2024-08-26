@@ -1,6 +1,5 @@
 ---
 title: "D For Docker"
-seoTitle: "Docker Made Simple: A Fun and Easy Guide for Beginners"
 seoDescription: "Learn Docker the easy way! This beginner-friendly guide breaks down Docker’s basics with humor, making containerization simple and fun to understand."
 datePublished: Mon Aug 26 2024 11:43:59 GMT+0000 (Coordinated Universal Time)
 cuid: cm0axk5lf001a08kyd559bmj9
